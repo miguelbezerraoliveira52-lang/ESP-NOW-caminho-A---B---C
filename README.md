@@ -244,4 +244,17 @@ Registre:
 - Leituras do LDR em duas condições de iluminação.
 - A ausência de confirmação quando B está desligada.
 
-## 📚 Conceitos
+## 📚 Conceitos trabalhados
+
+- Comunicação sem fio com ESP-NOW.
+- Endereçamento MAC.
+- Leitura analógica com ADC.
+- Uso de estruturas para troca de dados.
+- Callbacks de recebimento.
+- Encaminhamento por um nó intermediário.
+- Confirmação de recebimento na aplicação.
+- Dependência de um intermediário em uma rota fixa.
+
+## ✅ Estado de validação
+
+Os códigos foram preparados com base no enunciado da prática. A compilação no ambiente utilizado e os testes físicos com as três ESP32 ainda precisam ser realizados e registrados.
