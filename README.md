@@ -1,4 +1,4 @@
-# 📡 Prática 7 — Comunicação ESP-NOW com Retransmissão
+# 📡 Prática — Comunicação ESP-NOW com Retransmissão
 
 Projeto desenvolvido para a disciplina de **Sistemas Ciberfísicos e Colaborativos**, da **Universidade de Fortaleza — Unifor**.
 
